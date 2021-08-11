@@ -1,4 +1,4 @@
-- 👋 Hi, I’m DevinArnellMartin
+- 👋 Hi, I’m Devin
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me YouTube BlackSilhouette 
 

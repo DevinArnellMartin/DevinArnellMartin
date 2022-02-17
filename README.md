@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Devin
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me YouTube BlackSilhouette 
+- 📫 How to reach me devin.martin.lpa@gmail.com
 
 <!---
 DevinArnellMartin/DevinArnellMartin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

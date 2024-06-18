@@ -1,4 +1,4 @@
-I am a Junior at Georgia State University whom primary experience is in front & backend web development.
+I am a Senior at Georgia State University whom primary experience is in front & backend web development.
 You can contact me through:
 LinkedIn:https://www.linkedin.com/in/devin-arnell-martin/
 Gmail:devin.martin.lpa@gmail.com

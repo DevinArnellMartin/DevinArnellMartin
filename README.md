@@ -2,7 +2,9 @@
 
 🎓 **Class of 2024**  
 🏛️ **Georgia State University**  
-📍 *Web Developer | Pythonista | Javaphile*
+🖥️ *Web Developer | Pythonista | Javaphile*
+🏫 *PerScholas | INROADs*
+    
 
 ---
 

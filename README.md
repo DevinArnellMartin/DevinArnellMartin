@@ -1,10 +1,12 @@
 # 👨‍🎓 Devin A. Martin
 
-🎓 **Class of 2024**  
+🎓 **BoS:Computer Science**  
 🏛️ **Georgia State University**  
 🖥️ *Web Developer | Pythonista | Javaphile*
 🏫 *PerScholas | INROADs*
-    
+
+📜**COMPTIA A+**
+
 
 ---
 

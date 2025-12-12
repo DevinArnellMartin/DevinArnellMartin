@@ -1,4 +1,4 @@
-# 👨‍🎓 Devin A. Martin
+#  Devin A. Martin
 
 🎓 **BoS:Computer Science**  
 🏛️ **Georgia State University**  

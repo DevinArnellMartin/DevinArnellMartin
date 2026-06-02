@@ -6,6 +6,8 @@
 🏫 *PerScholas | INROADs*
 
 📜**COMPTIA A+**
+📜**COMPTIA Security+**
+📜**COMPTIA Network+**
 
 
 ---
@@ -13,5 +15,5 @@
 📫 **Contact Me:**
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/devin-arnell-martin/)
-- 📧 [Gmail](mailto:devin.martin.lpa@gmail.com)
+- 📧 [Gmail](mailto:devinamartin@proton.me)
 

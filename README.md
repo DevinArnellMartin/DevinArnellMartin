@@ -15,5 +15,5 @@
 📫 **Contact Me:**
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/devin-arnell-martin/)
-- 📧 [Gmail](mailto:devinamartin@proton.me)
+- 📧 [Email](mailto:devinamartin@proton.me)
 

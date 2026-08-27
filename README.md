@@ -3,7 +3,7 @@
 🎓 **BoS:Computer Science**  
 🏛️ **Georgia State University**  
 🖥️ *Web Developer | Pythonista | Javaphile*
-🏫 *PerScholas | INROADs*
+
 
 📜**COMPTIA A+**
 📜**COMPTIA Security+**
